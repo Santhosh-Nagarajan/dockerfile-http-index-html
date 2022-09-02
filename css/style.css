@@ -1,0 +1,142 @@
+body
+{
+    background-image: url("../images/image7.jpg");
+    width: 100%;
+    height:auto;
+}
+#header
+{
+    height: 100px;
+}
+#header ul
+{
+    float: left;
+    margin-right: 10px;
+    font-size: 20px;
+}
+#header ul li
+{
+    clear:both;
+    display: inline;
+    margin-right: 20px;
+}
+#header ul li a
+{
+    color:white;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 40px;
+
+}
+.fa-envelope
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.fa-instagram
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 20px;
+}
+.fa-twitter
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 20px;
+}
+.fa-facebook-f
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 20px;
+}
+#block1
+{
+    width:90%;
+    height:500px;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-right: 70px;
+}
+#block1 img
+{
+    float: right;
+    margin-right: 90px;
+    margin-top: 30px;
+}
+#block1 p
+{
+    font: bold 70px arial,sans-serif;
+    color: white;
+    margin-top: 30px;
+    margin-left: 150px;
+    line-height: 0.8;
+    font-style: arial;
+}
+#block2
+{
+    width:32%;
+    height:125px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#block3
+{
+    width:32%;
+    height:125px;
+    float: left;
+}
+#block4
+{
+    width:32%;
+    height:125px;
+    float: right;
+    margin-right: 10px;
+}
+#block2 h5
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#block2 p
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+#block3 h5
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#block3 p
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 1px;
+}
+#block4 h5
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#block4 p
+{
+    font: bold 15px arial,sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 1px;
+}
